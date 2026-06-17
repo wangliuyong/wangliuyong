@@ -26,6 +26,39 @@ Passionate about building elegant and maintainable web applications.
 </div>
 
 ---
+## 📝 博客
+
+<div align="center">
+
+欢迎访问我的个人博客，阅读技术笔记与开发心得。
+
+[![Visit Blog](https://img.shields.io/badge/🌐_访问博客-http://47.116.30.137-A78BFA?style=for-the-badge)](http://47.116.30.137)
+
+</div>
+
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+<!-- skillicons 图标墙：前端 + 后端 + 工具链 -->
+![](https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nestjs,webpack,docker,git,figma,python,mysql,redis,linux&perline=7)
+
+</div>
+---
+## 🐍 贡献蛇
+
+<div align="center">
+
+<!-- 由 GitHub Actions 每日自动生成 -->
+![Snake animation](https://raw.githubusercontent.com/wangliuyong/wangliuyong/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+---
 
 ## 📊 GitHub 数据统计
 
@@ -49,17 +82,6 @@ Passionate about building elegant and maintainable web applications.
 
 ---
 
-## 🛠️ 技术栈
-
-<div align="center">
-
-<!-- skillicons 图标墙：前端 + 后端 + 工具链 -->
-![](https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nestjs,webpack,docker,git,figma,python,mysql,redis,linux&perline=7)
-
-</div>
-
----
-
 ## 🚀 精选项目
 
 <div align="center">
@@ -77,27 +99,6 @@ Passionate about building elegant and maintainable web applications.
 <a href="https://github.com/wangliuyong/CrazyRobot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangliuyong&repo=CrazyRobot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" alt="CrazyRobot" />
 </a>
-
-</div>
-
----
-## 📝 博客
-
-<div align="center">
-
-欢迎访问我的个人博客，阅读技术笔记与开发心得。
-
-[![Visit Blog](https://img.shields.io/badge/🌐_访问博客-http://47.116.30.137-A78BFA?style=for-the-badge)](http://47.116.30.137)
-
-</div>
-
----
-## 🐍 贡献蛇
-
-<div align="center">
-
-<!-- 由 GitHub Actions 每日自动生成 -->
-![Snake animation](https://raw.githubusercontent.com/wangliuyong/wangliuyong/output/github-contribution-grid-snake.svg)
 
 </div>
 
