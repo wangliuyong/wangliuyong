@@ -134,7 +134,7 @@ Passionate about building elegant and maintainable web applications.
 <div align="center">
 
 <!-- 由 GitHub Actions 每日自动生成 -->
-![Snake animation](https://raw.githubusercontent.com/wangliuyong/wangliuyong/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/wangliuyong/wangliuyong/output/github-contribution-grid-snake.svg)
 
 </div>
 
