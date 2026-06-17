@@ -1,4 +1,4 @@
-# 贡献蛇动画：根据 GitHub 贡献记录自动生成 SVG 并推送到 output 分支
+# 贡献蛇动画：生成 SVG 并推送到 output 分支
 name: Generate Snake Animation
 
 on:
@@ -18,9 +18,19 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 第一步：根据贡献图生成蛇形 SVG
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: wangliuyong
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=A78BFA&color_dots=30363D,1A1B26,2D2F3F,7DD3FC,FFFFFF
+
+      # 第二步：将 dist 目录推送到 output 分支（README 从此分支读取 SVG）
+      - name: Push github-contribution-grid-snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
