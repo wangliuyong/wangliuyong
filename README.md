@@ -102,7 +102,7 @@ Passionate about building elegant and maintainable web applications.
 | :--- | :--- |
 | GitHub | [github.com/wangliuyong](https://github.com/wangliuyong) |
 | 博客 | [47.116.30.137](http://47.116.30.137) |
-| 邮箱 | [通过 GitHub 联系](https://github.com/wangliuyong) |
+| 邮箱 | [Email](1355498705@qq.com) |
 
 </div>
 
