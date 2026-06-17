@@ -81,7 +81,6 @@ Passionate about building elegant and maintainable web applications.
 </div>
 
 ---
-
 ## 📝 博客
 
 <div align="center">
@@ -93,42 +92,6 @@ Passionate about building elegant and maintainable web applications.
 </div>
 
 ---
-
-## 📫 联系我
-
-<div align="center">
-
-| 平台 | 链接 |
-| :--- | :--- |
-| GitHub | [github.com/wangliuyong](https://github.com/wangliuyong) |
-| 博客 | [47.116.30.137](http://47.116.30.137) |
-| 邮箱 | [Email](1355498705@qq.com) |
-
-</div>
-
----
-
-## 🎮 趣味角落
-
-<div align="center">
-
-<!-- Spotify 静态卡片（仓库内 SVG） -->
-<img src="https://raw.githubusercontent.com/wangliuyong/wangliuyong/main/spotify-data-card.svg" width="420" alt="Spotify Data Card" />
-
-<br/><br/>
-
-<!-- 随机开发者笑话 -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Dev Joke" width="500" />
-
-<br/><br/>
-
-<!-- Profile 访问计数 -->
-<img src="https://komarev.com/ghpvc/?username=wangliuyong&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
 ## 🐍 贡献蛇
 
 <div align="center">
